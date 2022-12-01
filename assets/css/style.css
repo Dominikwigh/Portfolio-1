@@ -64,6 +64,29 @@ h1, h2 {
 
 #bar-image {
     height: 800px;
-    width:100%;
+    width: 100%;
     background:url('../css/images/bar-image.jpeg') no-repeat center center;
+
+/* zoom effect on loading the page */
+
+animation-name: bar-zoom;
+animation-duration: 6s;
+animation-fill-mode: forward;
+
+}
+
+#bar-outer {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* zoom for bar-image */
+@keyframes bar-zoom {
+    from {
+         transform: scale(1);
+    }
+    to {
+         transform: scale(1.1);
+    }
 }
