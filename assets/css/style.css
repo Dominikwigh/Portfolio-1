@@ -59,3 +59,11 @@ h1, h2 {
 .active {
     border-bottom: 2px solid black;
 }
+
+/* bar-image */
+
+#bar-image {
+    height: 800px;
+    width:100%;
+    background:url('../css/images/bar-image.jpeg') no-repeat center center;
+}
