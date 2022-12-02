@@ -63,7 +63,7 @@ h1, h2 {
 /* bar-image */
 
 #bar-image {
-    height: 800px;
+    height: 500px;
     width: 100%;
     background:url('../css/images/bar-image.jpeg') no-repeat center center;
 
@@ -76,7 +76,7 @@ animation-fill-mode:forwards;
 }
 
 #bar-outer {
-    height: 800px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
 }
