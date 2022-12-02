@@ -91,7 +91,7 @@ animation-fill-mode:forwards;
     }
 }
 
-/* drinks menu */
+/* picture and open times*/
 
 #open-times {
     height:600px;
@@ -107,7 +107,6 @@ animation-fill-mode:forwards;
 #right-about {
     width: 33%;
     float:right;
-    background-color: aqua;
 }
 
 #center-about {
@@ -152,4 +151,19 @@ hr {
     height:100%;
     border-radius: 50%;
     
+}
+
+#right-pic {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    margin:0 auto;
+    border-radius:50%;
+    border-style:solid;
+}
+
+#right {
+    background: url('../css/images/Safeimagekit-resized-imgpng.png') no-repeat center center;
+    height:100%;
+    border-radius: 50%;
 }
