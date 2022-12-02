@@ -178,3 +178,21 @@ hr {
     overflow: hidden;
     width: 100%;
 }
+
+#drinksmenu div {
+    color:darkgoldenrod;
+    width:33%;
+    height:150px;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    border: 2px solid white;
+    padding:10px 0 0 10px;
+    box-sizing:border-box;
+
+}
+
+#drinksmenu h2 {
+
+    color:white;
+}
