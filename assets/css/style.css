@@ -99,21 +99,32 @@ animation-fill-mode:forwards;
 
 
 #left-about {
-    padding-top: 30px;
     width:33%;
     float:left;
     background-color: red;
 }
 
 #right-about {
-    padding-top: 30px;
     width: 33%;
     float:right;
     background-color: aqua;
 }
 
 #center-about {
+   padding-top: 30px;
     width:33%;
     margin: 0 auto;
-    background-color: aquamarine;
+
+}
+
+.center-about-heading {
+    width:60;
+    line-height: 20px;
+    text-align: center;
+}
+
+hr {
+    border-top: 1px solid black;
+    margin: 10px 0;
+    width:100%;
 }
