@@ -93,7 +93,7 @@ animation-fill-mode:forwards;
 
 /* drinks menu */
 
-#drinks-menu {
+#open-times {
     height:600px;
 }
 
@@ -101,7 +101,7 @@ animation-fill-mode:forwards;
 #left-about {
     width:33%;
     float:left;
-    background-color: red;
+    
 }
 
 #right-about {
@@ -127,4 +127,29 @@ hr {
     border-top: 1px solid black;
     margin: 10px 0;
     width:100%;
+}
+
+#welcome {
+    text-align: center;
+    margin:50px 0;
+    font-size: 280%;
+}
+
+#left-pic {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    margin:0 auto;
+    border-radius:50%;
+    border-style:solid;
+    
+    
+}
+
+#left {
+
+    background: url('../css/images/pexels-photo-274192.webp') no-repeat center center;
+    height:100%;
+    border-radius: 50%;
+    
 }
