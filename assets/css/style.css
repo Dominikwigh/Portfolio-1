@@ -16,13 +16,14 @@ body {
 /* headings and logo */
 
 h1, h2 {
-    font-family: Zen+Dots "sans-serif";
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color:hwb(0 0% 100%);
+    font-family:"Zen Dots";
+    text-transform:Uppercase;
+    letter-spacing:4px;
+    color:rgba(0, 0, 0 ) ;
 }
 
 /* navigation links */
+
 #menu {
     float: right;
     font-size:110%;
@@ -117,7 +118,7 @@ animation-fill-mode:forwards;
 }
 
 .center-about-heading {
-    width:60;
+    width:70%;
     line-height: 20px;
     text-align: center;
 }
