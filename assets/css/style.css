@@ -275,7 +275,7 @@ footer i {
 
 /* small screen sizes 576px and up */
 
-@media screen and (max-width:576px) {
+@media only screen and (max-width:576px) {
 
     #center-about, #center-about-heading {
         width: 100%;
@@ -284,9 +284,25 @@ footer i {
     }
 
     #left-pic, #right-pic {
-        margin-left: auto;
-        margin-right: auto;
-       width: 100%;
+       visibility: hidden;
+       
         
+    }
+
+    #drinksmenu {
+        text-align: center;
+        width: 100%;
+    }
+
+    #drinksmenu p {
+
+        font-size: small;
+    }
+    
+    #drinksmenu h2 {
+        font-size: small;
+    }
+    #get-in-touch {
+        visibility: hidden;
     }
 }
