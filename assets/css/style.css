@@ -121,6 +121,7 @@ animation-fill-mode:forwards;
     width:70%;
     line-height: 20px;
     text-align: center;
+    margin:auto;
 }
 
 hr {
@@ -187,7 +188,7 @@ hr {
     width:33%;
     height:150px;
     float: left;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.9);
     text-align: center;
     border: 2px solid white;
     box-sizing:border-box;
@@ -215,6 +216,7 @@ hr {
     text-align: center;
     margin:20px 0;
     font-size: 280%;
+    
 }
 
 /* form section */
@@ -230,7 +232,7 @@ hr {
 .signup-form {
  margin: 150px 10% 0 0;
  color: #fff;
- background-color: rgba(60, 60, 60, 1);
+ background-color: rgba(60, 60, 60, 0.9);
  max-width: 400px;
  position: absolute;
  left: 10%;
@@ -253,7 +255,7 @@ hr {
     height:25px;
     margin: 5px 0 20px 0;
     border: 2px solid #fafafa;
-    border-radius: 2px;
+    border-radius: 3px;
     
 }
 
@@ -271,13 +273,11 @@ hr {
 }
 
 
-
-
-
 /* footer */
 
 footer {
     height: 150px;
+    
 
 }
 
@@ -295,7 +295,9 @@ footer i {
     padding:5%;
     color:black;
 }
-/* media queries for medium devices and down, 1200px wide and down*/
+
+/* media queries */
+
 @media screen and (max-width:1200px) {
     #open-times {
         width:55%;
@@ -311,56 +313,32 @@ footer i {
 #left-about, #right-about {
     width: 100%;
     float: left;
-    padding: 0;
+    padding: 0; 
+    }
+
+
 
 }
 
-}
-/* medium screen sizes 768px wide and up*/
-@media only screen and (min-width:768px) {
+/* medium */
+
+@media screen and (max-width:770px) {
+
     #menu {
-        margin-left:30px;
-        margin-bottom:20px;
-        line-height:25px;
+        float: left;
     }
 
-    #center-about, #center-about-heading {
-        width:100%;
-        text-align: center;
-    }
-
-}
-
-/* small screen sizes 576px and up */
-
-@media only screen and (max-width:576px) {
-
-    #center-about, #center-about-heading {
-        width: 100%;
-        text-align: center;
-        
-    }
-
-    #left-pic, #right-pic {
-       visibility: hidden;
-       
-        
-    }
-
-    #drinksmenu {
-        text-align: center;
-        width: 100%;
-    }
-
-    #drinksmenu p {
-
-        font-size: small;
-    }
-    
-    #drinksmenu h2 {
-        font-size: small;
-    }
-    #get-in-touch {
+    #hidden {
         visibility: hidden;
+    }
+
+
+
+
+    @media screen and (max-width:576px) {
+     
+        #open-times {
+            visibility: hidden;
+        }
     }
 }
