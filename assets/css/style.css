@@ -67,7 +67,7 @@ h1, h2 {
     height: 500px;
     width: 100%;
     background:url('../css/images/bar-image.jpeg') no-repeat center center;
-
+    
 /* zoom effect on loading the page */
 
 animation-name: bar-zoom;
@@ -278,6 +278,7 @@ hr {
 footer {
     height: 150px;
     
+    
 
 }
 
@@ -298,47 +299,53 @@ footer i {
 
 /* media queries */
 
-@media screen and (max-width:1200px) {
-    #open-times {
-        width:55%;
-        height:1200px;
-        margin:0 auto;
-    }
-
-#welcome {
-    padding: 30px 0;
-    margin: 0;
-}
-
-#left-about, #right-about {
-    width: 100%;
-    float: left;
-    padding: 0; 
-    }
-
-
-
-}
-
 /* medium */
 
-@media screen and (max-width:770px) {
+@media screen and (min-width:550px)  and (max-width:1024px) {
 
     #menu {
-        float: left;
+        text-align: center;
+    }
+
+    #center-about {
+        visibility: hidden;
+    }
+
+    #div p {
+        font-size: small;
+    }
+
+    #html {
+        overflow-x: hidden;
+        width: 100vw;
     }
 
     #hidden {
         visibility: hidden;
     }
+}
 
+/* small devices */
 
-
-
-    @media screen and (max-width:576px) {
+    @media screen and (max-width:550px) {
      
         #open-times {
             visibility: hidden;
         }
+    
+        #drinksmenu {
+            font-size: small;
+        }
+        
+        #menu{
+            font-size: small;
+            float: left;
+        }
+
+        #get-in-touch {
+            font-size: medium;
+        }
+
+
+        
     }
-}
