@@ -19,10 +19,11 @@ This is a website for London based bar. It helps us to show people not only what
 #### The landing page ####
 * The landing page includes a image of our bar with alcoholic drinks. 
 * This image introduces the user to what drinks we offer in our bar. 
-
+![Bar image](documentation/bar%20image%20.png)
 
 #### Open times section ####
 * This section shows two pictures and our open times. 
+![opentimes and two pictures](documentation/opentimes%20.png)
 
 
 #### Drinks menu #### 
@@ -33,10 +34,14 @@ This is a website for London based bar. It helps us to show people not only what
 * This section includes our address, phone number and email. 
 * This is for the user to easily contact us. 
 
+![Contact information](documentation/Contact.png)
+
 
 #### Footer #### 
 * This section icludes links for our users to find us on social media. 
 * When the links are clicked they open in a new tab for the user to visit.
+
+![image description here](file path to image here)
 
 #### Contact, navigation bar ####
 * When contact is clicked in the navigation bar it redirects the user to the cantact section. 
@@ -45,6 +50,8 @@ This is a website for London based bar. It helps us to show people not only what
 #### Win a free drink #### 
 * This sign up page will allow the user to win a free drink through signing up to our newsletter. 
 * The user need to fill in first-name, last-name and email-address. 
+
+![Sign up form](documentation/Win%20a%20free%20drink.png)
 
 
 

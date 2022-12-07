@@ -312,6 +312,14 @@ html, body {
     overflow-x: hidden;
 }
 
+
+img { 
+    border-radius: 50%;
+    width:80px;
+    float: right;
+    
+   
+}
 /* media queries */
 
 /* medium */
