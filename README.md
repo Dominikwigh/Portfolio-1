@@ -2,6 +2,7 @@
 
 This is a website for London based bar. It helps us to show people not only what we offer but also where to find us. It is targeted to people 18+ who want to have a drink and socialise.
 
+- - - -
 
 
 
@@ -12,6 +13,8 @@ This is a website for London based bar. It helps us to show people not only what
 * At the top of the page the navigation bar shows the name of the bar
 * The navigation bar also thre links to.. Home, Contact and Win a free drink.
 * This section will help the user navigate from page to page. 
+
+![Navigation bar](documentation/Navigation.png)
 
 #### The landing page ####
 * The landing page includes a image of our bar with alcoholic drinks. 
@@ -42,5 +45,11 @@ This is a website for London based bar. It helps us to show people not only what
 #### Win a free drink #### 
 * This sign up page will allow the user to win a free drink through signing up to our newsletter. 
 * The user need to fill in first-name, last-name and email-address. 
+
+
+
+## Testing ##
+
+
 
 
