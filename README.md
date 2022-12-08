@@ -6,6 +6,26 @@ This is a website for a London based bar. It helps us to show people not only wh
 
 ![responsive image acroos four devices](documentation/responsive%20image.png)
 
+## Site owner goals: 
+* Create a website for a bar located in London
+* Give the viewer a easy understanding about the business purpose 
+* The website is responsive across different devices 
+
+## User Experince ## 
+  ### User goals ###
+   * To be able to se price and what we offer 
+   * To be able to find which times we are open. 
+  ### First time visitor goals ###
+   * I want to find royal bars social media 
+   * I wnat to find price and menu, online 
+  ### Returning visitors goals ###
+   * I want to see what time they are open
+   * i want to see updated prices or menu 
+   * I want to contact Royal bar 
+  ### Frequent visitors goals ### 
+   * I want to contact Royal bar 
+   * I want to see the drinks menu 
+
 ## Features ##
 
 ### Navigation Bar ###
@@ -55,8 +75,6 @@ This is a website for a London based bar. It helps us to show people not only wh
 
 ![Sign up form](documentation/win%20a%20free%20drink.png)
 
-
-
 ## Testing ##
 
 * I have tested the browser on different browsers, safari, firefox and chrome  
@@ -68,7 +86,7 @@ This is a website for a London based bar. It helps us to show people not only wh
 * When contact is clicked it redirects the user to the contact section at the bottom of the home page 
 * When "Win a freee drink" is clicked it sends the user to a new page where they can sign up  
 * The navigation bar is tested and works as intended 
-* The site is easy to read and navigate thorugh  
+* The site is easy to read and navigate through  
 
 ## Validator testing ##
 * Html 
@@ -87,6 +105,9 @@ This is a website for a London based bar. It helps us to show people not only wh
 
   You can access the site from this link: https://8000-dominikwigh-portfolio1-68l2axyuaf9.ws-eu77.gitpod.io/index.html
 
+## Languages used ## 
+  * Html, Css
+
 ## Credits ##
 * My mentor Rory Patrick. For all guidance and help. 
 ### Content ###
@@ -97,10 +118,12 @@ This is a website for a London based bar. It helps us to show people not only wh
  * the code for the "contact section" was taken from [W3schools](https://www.w3schools.com/default.asp
  * The codes for media queries were taken from [W3schools](https://www.w3schools.com/default.asp
  
+ 
 ### Media ### 
  * Images were taken from [Pexels](https://www.pexels.com/
  * The image in the contact section was taken from [Picsum](https://picsum.photos/
  * All screenshots in this README were taken by myself
+ * Responsive picture was taken from [Responsive](https://ui.dev/amiresponsive
 
 
 
