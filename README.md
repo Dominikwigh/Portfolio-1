@@ -76,7 +76,7 @@ This is a website for a London based bar. It helps us to show people not only wh
    * no errors or warnings found when running the signup.html code, [W3C validator](https://validator.w3.org/#validate_by_input
 * Css
    * No errors or warnings found when running the css code, [W3C validator](https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input
-
+![Accessibility-text](documentation/validator.png)
 
 ## Deployment ##
 
