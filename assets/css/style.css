@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: lato sans-serif;
+    font-family:lato, "sans-serif";
     font-weight: 300;
     color:black;
 }
@@ -160,6 +160,7 @@ hr {
 
     background: url('../images/pexels-photo-274192.webp') no-repeat center center;
     height:100%;
+    width: auto;
     border-radius: 50%;
     
 }
@@ -176,6 +177,7 @@ hr {
 #right {
     background: url('../images/Safeimagekit-resized-imgpng.png') no-repeat center center;
     height:100%;
+    width: auto;
     border-radius: 50%;
 }
 
@@ -189,7 +191,7 @@ hr {
     overflow: hidden;
     width: 100%;
     height:300px;
-    padding:25px 0px;
+    padding: 25px 0 25px 5px;
 }
 
 #drinksmenu div {
@@ -237,6 +239,7 @@ hr {
     background-size: cover;
     background-position: center;
     height: 900px;
+    width: auto;
 }
 
 .signup-form {
@@ -321,7 +324,7 @@ html, body {
 
 img { 
     border-radius: 50%;
-    width:80px;
+
     float: right;
     
    
@@ -396,7 +399,8 @@ img {
         }
 
         img {
-            visibility: hidden;
+            display: none;
+    
         }
 
         #signup-form {
@@ -404,6 +408,17 @@ img {
         }
 
         #contact-info div {
+            font-size: small;
+        }
+
+        #footer div {
+            font-size: small;
+        }
+
+        #drinksmenu div {
+            font-size: x-small;
+        }
+        #contact-header {
             font-size: small;
         }
 

@@ -4,7 +4,7 @@ This is a website for a London based bar. It helps us to show people not only wh
 
 - - - -
 
-
+![responsive image acroos four devices](documentation/responsive%20image.png)
 
 ## Features ##
 
@@ -28,13 +28,13 @@ This is a website for a London based bar. It helps us to show people not only wh
 
 
 #### Drinks menu #### 
-* This section shows the user what drinks we offer
+* This section shows the user what drinks and price we offer
 * This section also constantly updates to keep the users up to date with our menu 
-![Drinks menu](documentation/drinks%20menu.png)
+![Drinks menu](documentation/drinksmenu.png)
 
 #### Contact ####
-* This section includes our address, phone number and email. 
-* This is for the user to easily contact us. 
+* This section includes our address, phone number and email 
+* This is for the user to easily contact us 
 
 ![Contact information](documentation/contact.png)
 
@@ -72,10 +72,10 @@ This is a website for a London based bar. It helps us to show people not only wh
 
 ## Validator testing ##
 * Html 
-   * No errors or warnings found when running the index.html code, [W3C validator](http://www.google.fr/
-   * no errors or warnings found when running the signup.html code, [W3C validator](http://www.google.fr/
-* Css 
-   * No errors or warnings found when running the css code, 
+   * No errors or warnings found when running the index.html code, [W3C validator](https://validator.w3.org/#validate_by_input
+   * no errors or warnings found when running the signup.html code, [W3C validator](https://validator.w3.org/#validate_by_input
+* Css
+   * No errors or warnings found when running the css code, [W3C validator](https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input
 
 
 ## Deployment ##
