@@ -240,7 +240,7 @@ hr {
  color: #fff;
  background-color: rgba(60, 60, 60, 0.9);
  max-width: 400px;
- position: absolute;
+ position: relative;
  left: 10%;
  padding:30px;
 }
@@ -383,12 +383,19 @@ img {
 
     @media screen and (max-width:400px) {
 
-        #signup-form {
-           margin:0;
-           color:#fff;
-           background-color: rgba(60, 60, 60, 0.9);
-           max-width: 400px;
-           padding:30px;
+        #menu {
 
+            font-size: small;
         }
+
+        img {
+            visibility: hidden;
+        }
+
+        #signup-form {
+            position: absolute;
+        }
+
+
+
     }

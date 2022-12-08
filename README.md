@@ -27,14 +27,15 @@ This is a website for London based bar. It helps us to show people not only what
 
 
 #### Drinks menu #### 
-* This section shows the user what drinks and price we offer. 
-* This section also constantly updates to keep the users up to date with our prices. 
+* This section shows the user what drinks we offer. 
+* This section also constantly updates to keep the users up to date with our menu. 
+![Drinks menu](documentation/drinks%20menu.png)
 
 #### Contact ####
 * This section includes our address, phone number and email. 
 * This is for the user to easily contact us. 
 
-![Contact information](documentation/Contact.png)
+![Contact information](documentation/contact.png)
 
 
 #### Footer #### 
@@ -51,7 +52,7 @@ This is a website for London based bar. It helps us to show people not only what
 * This sign up page will allow the user to win a free drink through signing up to our newsletter. 
 * The user need to fill in first-name, last-name and email-address. 
 
-![Sign up form](documentation/Win%20a%20free%20drink.png)
+![Sign up form](documentation/win%20a%20free%20drink.png)
 
 
 
