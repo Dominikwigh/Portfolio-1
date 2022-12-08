@@ -40,7 +40,7 @@ This is a website for a London based bar. It helps us to show people not only wh
 
 
 #### Footer #### 
-* This section icludes links for our users to find us on social media 
+* This section includes links for our users to find us on social media 
 * When the links are clicked they open in a new tab for the user to visit 
 
 ![Fo0ter with social media links](documentation/footer.png)
@@ -85,6 +85,8 @@ This is a website for a London based bar. It helps us to show people not only wh
   * Select main branch from the source drop down menu  
   * Once the main branch has been selected and saved the page will automatically get deployed and a display with the link will be at the top of the page 
 
+  You can access the site from this link: https://8000-dominikwigh-portfolio1-68l2axyuaf9.ws-eu77.gitpod.io/index.html
+
 ## Credits ##
 * My mentor Rory Patrick. For all guidance and help. 
 ### Content ###
@@ -98,6 +100,7 @@ This is a website for a London based bar. It helps us to show people not only wh
 ### Media ### 
  * Images were taken from [Pexels](https://www.pexels.com/
  * The image in the contact section was taken from [Picsum](https://picsum.photos/
+ * All screenshots in this README were taken by myself
 
 
 

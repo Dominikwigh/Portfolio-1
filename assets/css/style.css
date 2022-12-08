@@ -195,7 +195,7 @@ hr {
 #drinksmenu div {
     color:darkgoldenrod;
     width:33%;
-    height:150px;
+    height:200px;
     float: left;
     background-color: rgba(0, 0, 0, 0.9);
     text-align: center;
@@ -287,8 +287,6 @@ hr {
 
 footer {
     height: 150px;
-    
-    
 
 }
 
@@ -330,7 +328,7 @@ img {
 }
 /* media queries */
 
-/* medium */
+/* medium to big */
 
 @media screen and (min-width:550px)  and (max-width:1024px) {
 
@@ -388,8 +386,9 @@ img {
         
     }
 
-
-    @media screen and (max-width:400px) {
+/* small devices below 400px */
+   
+@media screen and (max-width:400px) {
 
         #menu {
 
@@ -404,6 +403,8 @@ img {
             position: absolute;
         }
 
-
+        #contact-info div {
+            font-size: small;
+        }
 
     }
