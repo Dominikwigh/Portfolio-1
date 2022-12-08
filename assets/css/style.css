@@ -83,6 +83,10 @@ animation-fill-mode:forwards;
     overflow: hidden;
 }
 
+#bar-outer h6 {
+    visibility: hidden;
+}
+
 /* zoom for bar-image */
 @keyframes bar-zoom {
     from {

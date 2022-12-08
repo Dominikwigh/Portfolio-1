@@ -58,6 +58,34 @@ This is a website for London based bar. It helps us to show people not only what
 
 ## Testing ##
 
+* I have tested the browser on different browsers, safari, firefox and chrome. 
+* I have tested the "signup-form", requiers entries in every field and only accepts email in email field. 
+* i confirmed that the site looks responsive on different devices. 
+* The footer section provides three links to social media pages, and when clicked, they open in a new tab. 
+* The navigation bar has three options, "Home" "Contact" and "Win a free drink". 
+* When home is clicked it refreshes the page and sends the user to the top of the first page. 
+* When contact is clicked it redrirects the user to the contact section at the bottom of the home page. 
+* When "Win a freee drink" is clicked it sends the user to a new page where they can sign up. 
+* The navigot bar is tested and works as intended. 
+* The site is easy to read and navigate. 
+
+## Validator testing ##
+* Html 
+   * No errors or warnings found when running the index.html code, [W3C validator](http://www.google.fr/
+   * no errors or warnings found when running the signup.html code, [W3C validator](http://www.google.fr/
+* Css 
+   * No erros or warnings found when running the css code, 
+
+
+## Deployment ##
+
+* The site was deployed to Github pages the steps are as follow:
+  * In the github repository, navigate to the settings tab. 
+  * Select master branch from the source drop down menu. 
+  * Once the master branch has been selected and svaed the page will automatically get deployed and a display with the link will be at the top of the page. 
+
+
+
 
 
 
