@@ -16,11 +16,11 @@ This is a website for a London based bar. It helps us to show people not only wh
    * To be able to se price and what we offer 
    * To be able to find which times we are open. 
   ### First time visitor goals ###
-   * I want to find royal bars social media 
-   * I wnat to find price and menu, online 
+   * I want to find Royal bars social media 
+   * I want to find price and menu, online 
   ### Returning visitors goals ###
    * I want to see what time they are open
-   * i want to see updated prices or menu 
+   * I want to see updated prices or menu 
    * I want to contact Royal bar 
   ### Frequent visitors goals ### 
    * I want to contact Royal bar 
@@ -91,7 +91,7 @@ This is a website for a London based bar. It helps us to show people not only wh
 ## Validator testing ##
 * Html 
    * No errors or warnings found when running the index.html code, [W3C validator](https://validator.w3.org/#validate_by_input
-   * no errors or warnings found when running the signup.html code, [W3C validator](https://validator.w3.org/#validate_by_input
+   * No errors or warnings found when running the signup.html code, [W3C validator](https://validator.w3.org/#validate_by_input
 * Css
    * No errors or warnings found when running the css code, [W3C validator](https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input
 ![Accessibility-text](documentation/validator.png)
@@ -108,14 +108,16 @@ This is a website for a London based bar. It helps us to show people not only wh
 ## Languages used ## 
   * Html, Css
 
+
+
 ## Credits ##
-* My mentor Rory Patrick. For all guidance and help. 
+ * My mentor Rory Patrick. For all guidance and help. 
 ### Content ###
  * The code for "header" and "open times section" was taken from the Love running project and adjusted 
  * Icons on the site were taken from [Font awesome](https://fontawesome.com/
  * The fonts were taken from [Google fonts](https://fonts.google.com/
  * The code for the "signup form" was taken from the Love running project and adjusted
- * the code for the "contact section" was taken from [W3schools](https://www.w3schools.com/default.asp
+ * The code for the "contact section" was taken from [W3schools](https://www.w3schools.com/default.asp
  * The codes for media queries were taken from [W3schools](https://www.w3schools.com/default.asp
  
  
